@@ -6,6 +6,7 @@
 <script>
 	const members = [
 		"kimnh-0823",
+		"hungnm",
 	];
 </script>
 
