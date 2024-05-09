@@ -4,9 +4,7 @@
 </svelte:head>
 
 <script>
-	const members = [
-		"kimnh-0823", ntduc
-	];
+	const members = ['kimnh-0823', 'kimyvgy', 'ntduc'];
 </script>
 
 <div class="text-column">
