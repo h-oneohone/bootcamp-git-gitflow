@@ -5,9 +5,11 @@
 
 <script>
 	const members = [
-		"kimnh-0823",
-		"hungnm",
-	];
+    'kimnh-0823',
+    'kimyvgy',
+    'ntduc',
+		'hungnm',
+  ];
 </script>
 
 <div class="text-column">
