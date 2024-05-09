@@ -1,11 +1,11 @@
-<script>
-	const members = ['kimnh-0823', 'kimyvgy'];
-</script>
-
 <svelte:head>
 	<title>About</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
+
+<script>
+	const members = ['kimnh-0823', 'kimyvgy', 'ntduc'];
+</script>
 
 <div class="text-column">
 	<h1>About thissssssssssss app</h1>
